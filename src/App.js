@@ -114,7 +114,13 @@ class MemoryGame extends React.Component {
 
     return (
       <div className="App">
-        <Navbar onNewGame={this.handleNewGame}  />
+        <Navbar onNewGame={this.handleNewGame} />
+        <h1>
+          <span style={{ color: "#ffd460" }} > find </span>
+          <span style={{ color: "#f07b3f" }} > the </span>
+          <span style={{ color: "#2d4059" }}>matched</span>
+          <span style={{ color: "#ea5455" }} >color</span>
+        </h1>
         {cards}
       </div>
     )

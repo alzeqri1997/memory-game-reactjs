@@ -8,6 +8,7 @@ const Navbar = ({ onNewGame }) => (
         <nav>
             <li> <a href onClick= {onNewGame} > New Game </a> </li>
         </nav>
+        
     </header>
 );
 
