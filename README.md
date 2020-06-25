@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo => [Click Here](https://memory-game-reactjs.netlify.app/)
 
+## Screenshots
+
+![memory game](./screenshots/1.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
