@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Live Demo => [Click Here](http://stickyboard.co.kr/)
+## Live Demo => [Click Here](https://memory-game-reactjs.netlify.app/)
 
 ## Available Scripts
 
